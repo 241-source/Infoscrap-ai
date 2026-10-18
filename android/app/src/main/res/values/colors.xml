@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ai_cyan">#06B6D4</color>
+    <color name="ai_blue">#3B82F6</color>
+    <color name="ai_navy_dark">#030712</color>
+    <color name="ai_navy_surface">#0A1224</color>
+    <color name="ai_purple">#A855F7</color>
+    <color name="ai_white">#F8FAFC</color>
+</resources>

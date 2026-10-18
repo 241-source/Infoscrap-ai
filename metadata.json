@@ -1,0 +1,8 @@
+{
+  "name": "InfoScrap AI",
+  "description": "Futuristic Android Personal AI Assistant with Jetpack Compose design, voice interaction, Gemini AI brain, screen reading, and multi-model capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

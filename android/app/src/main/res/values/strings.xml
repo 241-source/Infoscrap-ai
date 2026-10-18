@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InfoScrap AI</string>
+    <string name="accessibility_service_description">Enables InfoScrap AI to read screen content, navigate, and scroll when requested by voice or user commands.</string>
+</resources>
